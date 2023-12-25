@@ -1,1 +1,2 @@
 # DDDCleanArch
+working on a new example project, and it's built on the ideas of Clean Architecture and Domain Driven Design. Basically, I want the project to be well-organized, easy to understand, and able to grow smoothly over time. By following these approaches, I'm aiming for a codebase that's clear, modular, and easy to maintain. It's like having a solid blueprint for our project, making sure it stays reliable and can adapt as needed.
