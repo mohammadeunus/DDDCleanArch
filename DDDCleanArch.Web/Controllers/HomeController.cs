@@ -19,7 +19,7 @@ public class HomeController : Controller
 
     public async Task<IActionResult> Index()
     {
-        //await _emailSender.SendEmailAsync("100eunus@gmail.com", "hi", "asdfasdfasdfasdf");
+        //await _emailSender.SendEmailAsync("100eunus@gmail.com", "hi", "asdfasdfasdfasdf");b
         return View();
     }
 
